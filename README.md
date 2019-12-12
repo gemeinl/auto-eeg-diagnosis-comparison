@@ -9,7 +9,7 @@ The code in this repository depends on
 2. https://github.com/TNTLFreiburg/brainfeatures
 
 # Data
-Our study is based on the Temple University Hospital Abnormal EEG Corpus (v2.0.0):
+Our study is based on the Temple University Hospital Abnormal EEG Corpus (v2.0.0) avilable for download at:
 https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml
 
 # Reformatted physician reports of the TUH Abnormal EEG Corpus (v2.0.0)
