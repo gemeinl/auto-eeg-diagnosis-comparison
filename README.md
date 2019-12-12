@@ -1,6 +1,6 @@
 # auto-eeg-diagnosis-comparison
 
-This repository contains resources that were used for our study entitled 
+This repository contains resources that were used for our study entitled  
 "**Machine-Learning-Based Diagnostics of EEG Pathology**".
 
 # Requirements
