@@ -1,0 +1,14 @@
+{
+    "model": "SVC",
+    "model_C": 100,
+    "model__gamma": 0.00011586142973004287,
+    "model_kernel": "rbf",
+    "n_features": 8631,
+    "n_jobs": 30,
+    "n_runs": 5,
+    "sfreq": 100,
+    "shuffle": false,
+    "time_final evaluation": 728.6489505767822,
+    "time_loading_devel": 63.494762897491455,
+    "time_loading_eval": 6.484816789627075
+}

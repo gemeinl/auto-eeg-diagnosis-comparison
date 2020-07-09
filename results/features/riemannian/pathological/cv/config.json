@@ -1,0 +1,12 @@
+{
+    "C": 10,
+    "kernel": "rbf",
+    "adaptation": false,
+    "gamma": "auto",
+    "scaling": null,
+    "model": "Riemannian",
+    "n_features": 441,
+    "n_runs": 5,
+    "sfreq": 100,
+    "shuffle": false
+}
