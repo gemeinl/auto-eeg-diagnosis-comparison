@@ -17,6 +17,8 @@ The code in this repository uses
 
 4. https://github.com/alexandrebarachant/pyRiemann (0.2.5)  
 
+5. https://github.com/PatrykChrabaszcz/NeuralArchitectureSearch (commit 7ac028fba1a29c5fa5a96ca5d09e6e6f5ad732c8)
+
 Data
 ====
 Our study is based on the Temple University Hospital Abnormal EEG Corpus (v2.0.0) avilable for download at:
