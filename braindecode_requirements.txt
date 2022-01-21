@@ -20,7 +20,7 @@ fastprogress==0.1.21
 h5py==2.9.0
 idna==2.8
 ipykernel==5.1.0
-ipython==7.2.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.13.2
 jupyter-client==5.2.4
