@@ -38,7 +38,7 @@ msgpack-numpy==0.4.3.2
 murmurhash==1.0.2
 numba==0.42.1
 numexpr==2.6.9
-numpy==1.16.1
+numpy==1.22.0
 olefile==0.46
 packaging==19.0
 pandas==0.24.2
